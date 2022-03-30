@@ -1,5 +1,9 @@
-## Green Tech Innovation Web Site
+## Green Tech Innovation web site
+https://green-tech-innovation.com/
+
 This site presents the company globally. I used the ReactJs framework to set it up and I communicated with a REST API to display things from the database.
+
+To make the REST API I used the PHP Laravel framework in addition to a MySQL database
 
 
 ## Available Scripts
